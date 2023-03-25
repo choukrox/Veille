@@ -1,6 +1,6 @@
 # La domotique et maisons connectées
 
-### [Introduction](images/functions.jpg)
+### [Introduction]()
 La domotique c'est l’ensemble des techniques qui visent à intégrer à l’habitat tous les automatismes en matière de sécurité, de gestion de l’énergie, de communication. De manière générale, toutes les applications d’un logement peuvent être pilotées de manière automatique et ainsi rentrer dans le cadre de la « maison connectée ». 
 ![](images/domo.jpg)
 
@@ -17,7 +17,7 @@ En somme, la domotique offre des applications multiples et peut améliorer la qu
   
 ![](images/functions.jpg) 
 
-### [Avantage & inconvénients](https://zivadynamics.com/case-study/lion)
+### [Avantage & inconvénients]()
 
 #### Avantages
 - Confort et commodité : Automatiser de nombreuses tâches dans la maison.
@@ -64,12 +64,13 @@ Il est important de noter que la plupart des piratages d'objets connectés peuve
 - effectuer régulièrement les mises à jour des logiciels ;
 - éteindre l’objet quand il n’est pas utilisé.
 
-### [Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems](https://storage.googleapis.com/pirk.io/projects/synthetic_silviculture/index.html)
+### [Evolutions dans le domaine de la domotique]()
 
-Génération procédurale d'une forêt et de son évolution en fonction de la météo sur plusieurs années.
-Prise en compte de plusieurs type d'arbres qui rentrent en concurence dans le même environnement.
+#### Croissance du marché
 
-![](https://storage.googleapis.com/pirk.io/projects/synthetic_silviculture/images/teaser.jpg)
+Le marché de la maison intelligente est en pleine croissance, avec une prévision de chiffre d'affaires mondial de 88 milliards d'euros cette année, atteignant 150 milliards d'euros d'ici 2025. Les équipements domotiques connectés permettent le contrôle et la gestion de diverses fonctions dans un logement et le divertissement. Le marché américain est le plus développé avec plus de la moitié des ménages équipés, tandis que la pénétration est plus faible en Europe, bien que les pays du nord soient plus avancés que ceux du sud. La France devrait atteindre plus de 25 % de ménages équipés d'ici 2024.
+
+![](images/march%C3%A9.jpeg)
 
 
 ### [Amendment for Inverse Control of Parametric Shapes](https://perso.telecom-paristech.fr/boubek/papers/DAG_Amendment/)
