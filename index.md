@@ -1,6 +1,6 @@
 # La domotique et maisons connectées
 
-## Introduction
+### [Introduction](images/functions.jpg)
 La domotique c'est l’ensemble des techniques qui visent à intégrer à l’habitat tous les automatismes en matière de sécurité, de gestion de l’énergie, de communication. De manière générale, toutes les applications d’un logement peuvent être pilotées de manière automatique et ainsi rentrer dans le cadre de la « maison connectée ». 
 ![](images/domo.jpg)
 
@@ -14,11 +14,22 @@ Pour comprendre un petit peut plus à quoi sert la domotique qui désigne l'ense
 - Divertissement : Créer des systèmes de divertissement tels que des cinémas maison, des systèmes de son et des écrans de projection.
 
 En somme, la domotique offre des applications multiples et peut améliorer la qualité de vie des occupants d'une maison tout en offrant une meilleure efficacité énergétique et en renforçant la sécurité de la maison.
+  
 ![](images/functions.jpg) 
 
-### [Lion Ziva](https://zivadynamics.com/case-study/lion)
+### [Avantage & inconvénients](https://zivadynamics.com/case-study/lion)
 
-Simulation du squelettes, des muscles, de la peau et de la graisse d'un lion pour le rendu obtenir un rendu réaliste.
+#### Avantages
+- Confort et commodité : Automatiser de nombreuses tâches dans la maison.
+- Efficacité énergétique : En automatisant la gestion de l'énergie.
+- Sécurité : La domotique offre des systèmes de sécurité sophistiqués qui peuvent protéger la maison contre les intrusions, les incendies et autres dangers.
+- Accessibilité : La domotique peut faciliter l'accessibilité pour les personnes âgées et les personnes handicapées en offrant des commandes à distance et des systèmes de surveillance.
+  
+#### Inconvénients
+- Coût élevé
+- Complexité 
+- Dépendance technologique
+- Vie privée
 
 ### [Fast Fluid Simulations with Sparse Volumes on the GPU](https://people.csail.mit.edu/kuiwu/GVDB_FLIP/gvdb_flip_teaser.jpg)
 
