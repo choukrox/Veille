@@ -31,11 +31,17 @@ En somme, la domotique offre des applications multiples et peut améliorer la qu
 - Dépendance technologique
 - Vie privée
 
-### [Fast Fluid Simulations with Sparse Volumes on the GPU](https://people.csail.mit.edu/kuiwu/GVDB_FLIP/gvdb_flip_teaser.jpg)
+### [Comprendre l'architecture technique d'un objet connecté](images/architecture-iot.png)
+  
+![](images/architecture-iot.png)
 
-Méthode efficace pour de grosses simulation de fluides utilisant plus de 10 millions de particules. 
+L'architecture technique des objets connectés de la domotique peut varier selon les types d'équipements et les fabricants, mais généralement elle comprend les éléments suivants :
 
-![](https://people.csail.mit.edu/kuiwu/GVDB_FLIP/gvdb_flip_teaser.jpg)
+- Capteurs et actionneurs : Les capteurs détectent les conditions ou les événements et les actionneurs agissent sur l'environnement en réponse aux informations fournies par les capteurs.
+- Réseau de communication : Les objets connectés de la domotique communiquent entre eux et avec d'autres dispositifs de la maison via un réseau de communication.
+- Passerelle (gateway) : La passerelle connecte les objets connectés de la domotique au réseau de communication.
+- Système de gestion : Le système de gestion permet de contrôler et de surveiller les équipements de la domotique.
+- Cloud : Certains objets connectés de la domotique peuvent être connectés à des services cloud pour permettre le stockage des données collectées et un contrôle à distance.
 
 ### [https://visualcomputing.ist.ac.at/publications/2021/MADYPG/](Mechanics-Aware Deformation of Yarn Pattern Geometry)
 ![](https://visualcomputing.ist.ac.at/publications/2021/MADYPG/teaser.jpg)
