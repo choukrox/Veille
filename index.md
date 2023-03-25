@@ -43,11 +43,26 @@ L'architecture technique des objets connectés de la domotique peut varier selon
 - Système de gestion : Le système de gestion permet de contrôler et de surveiller les équipements de la domotique.
 - Cloud : Certains objets connectés de la domotique peuvent être connectés à des services cloud pour permettre le stockage des données collectées et un contrôle à distance.
 
-### [https://visualcomputing.ist.ac.at/publications/2021/MADYPG/](Mechanics-Aware Deformation of Yarn Pattern Geometry)
-![](https://visualcomputing.ist.ac.at/publications/2021/MADYPG/teaser.jpg)
-Simulation de tissus prennant en compte la géometrie du tissage.
+### [aspect sécurité : Comment utiliser un objet connecté sans se faire pirater ?]()
 
-## Generation procédurale
+Tout ce qui est connecté à Internet peut potentiellement être piraté. Qu’il s’agisse d’une caméra de surveillance, d’un thermostat ou d’une prise électrique, dès qu’il est connecté, un objet présente le risque de servir un jour de point d’entrée à une cyberattaque.
+
+#### Comment le piratage d'un objet connecté est effectué ?: 
+
+- Attaques par force brute : Les attaquants peuvent tenter de deviner le mot de passe de l'objet connecté par force brute en testant une multitude de combinaisons jusqu'à trouver la bonne.
+- Exploitation de vulnérabilités : Les objets connectés peuvent contenir des vulnérabilités de sécurité qui peuvent être exploitées par les attaquants pour prendre le contrôle de l'objet connecté.
+- Phishing : Les attaquants peuvent utiliser des techniques de phishing pour tromper l'utilisateur et obtenir l'accès à l'objet connecté. Par exemple, ils peuvent envoyer des e-mails ou des messages contenant des liens malveillants qui, une fois cliqués, permettent à l'attaquant de prendre le contrôle de l'objet connecté.
+- Attaques par déni de service (DDoS) : Les attaquants peuvent utiliser des objets connectés compromis pour lancer des attaques par déni de service, qui visent à saturer les serveurs cibles en les inondant de trafic, les rendant inaccessibles pour les utilisateurs légitimes.
+
+Il est important de noter que la plupart des piratages d'objets connectés peuvent être évités en prenant des mesures simples telles que :
+
+- vérifier que l’objet ne permet pas à n’importe qui de s’y connecter sans utiliser un mot de passe ou  un bouton d’accès physique. Les objets fonctionnant via la fonction Bluetooth sont plus facilement piratables ;
+- changer le paramétrage par défaut de l’objet (mot de passe, code PIN, etc.) ;
+- sécuriser le réseau WIFI à l’aide d’un mot de passe ;
+- désactiver le partage automatique des données ;
+- s’assurer de la possibilité d’accéder aux données et de pouvoir les supprimer ;
+- effectuer régulièrement les mises à jour des logiciels ;
+- éteindre l’objet quand il n’est pas utilisé.
 
 ### [Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems](https://storage.googleapis.com/pirk.io/projects/synthetic_silviculture/index.html)
 
