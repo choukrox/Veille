@@ -71,6 +71,7 @@ Il est important de noter que la plupart des piratages d'objets connectés peuve
 Le marché de la maison intelligente est en pleine croissance, avec une prévision de chiffre d'affaires mondial de 88 milliards d'euros cette année, atteignant 150 milliards d'euros d'ici 2025. Les équipements domotiques connectés permettent le contrôle et la gestion de diverses fonctions dans un logement et le divertissement. Le marché américain est le plus développé avec plus de la moitié des ménages équipés, tandis que la pénétration est plus faible en Europe, bien que les pays du nord soient plus avancés que ceux du sud. La France devrait atteindre plus de 25 % de ménages équipés d'ici 2024.
 
 ![](images/march%C3%A9.jpeg)
+[Source](https://fr.statista.com/infographie/11832/part-logements-equipes-appareils-intelligents-smart-home/)
 
 
 ### [Acteurs clés de la domotique]()
