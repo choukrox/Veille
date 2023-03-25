@@ -1,16 +1,8 @@
 # La domotique et maisons connectées
 
-## Contexte
-
-Cette page a pour objectif de rendre compte de mon travail réalisé dans le cadre du Mos 'Nouvelle Technologies de l'information et de la Communication" à l'École Centrale de Lyon. Il présente plusieurs articles liés au domaine du rendu 3D.
-Cette synthèse est découpée en trois parties principales présentant respectivement des technologies d'animation, de génération procédural et de rendu photoréaliste. 
-
-## Animation
-Cette partie comprends principalement des articles liés à l'animation. Utilisants par exemple des modèles physique ou de reseaux de neuronnes profonds.
-
-### [Learning Time-Critical Responses for Interactive Character Control](https://mrl.snu.ac.kr/research/ProjectAgile/Agile.png)
-Utilisation du Deeplearning pour l'animation automatique d'un personnage en interaction avec son environnement.
-![](https://mrl.snu.ac.kr/research/ProjectAgile/Agile.png)
+## Introduction
+La domotique c'est l’ensemble des techniques qui visent à intégrer à l’habitat tous les automatismes en matière de sécurité, de gestion de l’énergie, de communication. De manière générale, toutes les applications d’un logement peuvent être pilotées de manière automatique et ainsi rentrer dans le cadre de la « maison connectée ». 
+![](images/domo.jpg)
 
 ### [Scalable Muscle-actuated HumanSimulation and Control ](https://mrl.snu.ac.kr/research/ProjectScalable/Page.htm)
 
