@@ -4,10 +4,17 @@
 La domotique c'est l’ensemble des techniques qui visent à intégrer à l’habitat tous les automatismes en matière de sécurité, de gestion de l’énergie, de communication. De manière générale, toutes les applications d’un logement peuvent être pilotées de manière automatique et ainsi rentrer dans le cadre de la « maison connectée ». 
 ![](images/domo.jpg)
 
-### [Scalable Muscle-actuated HumanSimulation and Control ](https://mrl.snu.ac.kr/research/ProjectScalable/Page.htm)
+### [Use cases de la domotique](images/functions.jpg)
 
-Simulation physique d'un corp humain présentant plusieurs handicapes par un ensemble d'environ 300 muscles/tendons rattachés à un squelette articulé. 
-![](https://mrl.snu.ac.kr/research/ProjectScalable/Page.files/image002.png)
+Pour comprendre un petit peut plus à quoi sert la domotique qui désigne l'ensemble des technologies permettant de contrôler et d'automatiser les différents équipements d'une maison, elle offre de nombreux use cases et bénéfices:
+- Gestion de l'énergie : Réguler la consommation d'énergie en optimisant le chauffage, la climatisation, l'éclairage et les appareils électroménagers.
+- Sécurité : Assurer la sécurité de la maison en permettant de contrôler à distance les différents équipements de surveillance, les alarmes, les détecteurs de fumée et les verrous de porte.
+- Confort et bien-être : Contribuer à améliorer le confort et le bien-être des occupants de la maison en offrant une ambiance lumineuse et sonore adaptée, une température optimale et un air sain grâce à la régulation de la ventilation.
+- Assistance aux personnes âgées ou handicapées : Faciliter la vie des personnes âgées ou handicapées en leur offrant des équipements de contrôle à commande vocale ou par télécommande.
+- Divertissement : Créer des systèmes de divertissement tels que des cinémas maison, des systèmes de son et des écrans de projection.
+
+En somme, la domotique offre des applications multiples et peut améliorer la qualité de vie des occupants d'une maison tout en offrant une meilleure efficacité énergétique et en renforçant la sécurité de la maison.
+![](images/functions.jpg) 
 
 ### [Lion Ziva](https://zivadynamics.com/case-study/lion)
 
