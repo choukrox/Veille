@@ -84,15 +84,29 @@ Il existe de nombreux acteurs clés dans le domaine de la domotique et des maiso
 - Samsung : le géant sud-coréen propose des produits de domotique tels que les enceintes connectées Galaxy Home et les appareils SmartThings pour contrôler différents aspects de la maison.
 
 ![](images/ces.jpg)
+[Source: https://fr.yna.co.kr/view/AFR20230105000600884](https://fr.yna.co.kr/view/AFR20230105000600884)
 
 
-### [Multimodal Conditional Image Synthesis with Product-of-Experts GANs](https://deepimagination.cc/PoE-GAN/)
+### [Innovations CES 2023]()
 
-Utilisation d'un réseau de neurone du type GAN ("Generative Adversarial Networks") pour la génération de paysages photoréalistes.
+Dans cette partie je vais présenter quelques innovations conformément au CES 2023
 
-![](https://deepimagination.cc/PoE-GAN/images/teaser/g_out.jpg)
+![](images/douche.jpg)
+[Source: https://blogue.bestbuy.ca/maison-intelligente/le-salon-ces-2023-annonce-le-futur-de-la-domotique](https://blogue.bestbuy.ca/maison-intelligente/le-salon-ces-2023-annonce-le-futur-de-la-domotique)
 
-### [Photorealistic Material Editing Through Direct Image Manipulation ](https://users.cg.tuwien.ac.at/zsolnai/gfx/photorealistic-material-editing/)
+Si vous n’aimez pas attendre que votre douche se réchauffe, vous allez adorer la douche intelligente de Moen. C’est un appareil de domotique qui démarre la douche à partir de l’application Moen. On peut également utiliser des commandes vocales pour contrôler la douche, régler la température exacte de l’eau, mettre la douche en pause pour moins gaspiller l’eau et recevoir des alertes quand la douche est prête.
+
+![](images/Ring.jpg)
+[Source: https://blogue.bestbuy.ca/maison-intelligente/le-salon-ces-2023-annonce-le-futur-de-la-domotique](https://blogue.bestbuy.ca/maison-intelligente/le-salon-ces-2023-annonce-le-futur-de-la-domotique)
+
+La caméra Always Home Cam de Ring est un mini-drone qui patrouille dans la maison pendant votre absence pour détecter les intrus. C’est un petit drone qui parcourt un étage de votre domicile. Il faut l’entraîner en faisant des vols d’essai qui lui créent des trajets. On peut configurer plusieurs trajets et lui demander de s’arrêter et de vérifier des points définis. Il y a aussi un contrôle indépendant, et on peut immobiliser le drone et le tourner pour voir autour.
+
+![](images/lame.jpg)
+[Source](https://www.zdnet.fr/actualites/domotique-et-maison-connectee-au-ces-2023-matter-et-eclairage-immersif-entre-autres-39952256.htm)
+
+Cette lame est vraiment intéressante vu qu'elle est utile pour les personnes âgées ainsi que les personnes en situation d'handicaper, elle leur débarrasse d'une tache fastidieuse. Ce robot ne se contente pas de tondre seulement, il balaie aussi les feuilles.
+
+<!-- ### [Photorealistic Material Editing Through Direct Image Manipulation ](https://users.cg.tuwien.ac.at/zsolnai/gfx/photorealistic-material-editing/)
 Génération de materiaux, à partir d'image de référence. Habituellement ce travail doit être fait par un artiste ce qui peut lui prendre un temps important.
 ![](https://users.cg.tuwien.ac.at/zsolnai/wp/wp-content/uploads/2019/09/teaser3-1030x669.jpg)
 
@@ -121,4 +135,4 @@ Amélioration de la méthode d'intégration par Monte Carlo habituellement en us
 
 Utilisation d'un réseau de neurone pour le rendu photoréaliste de milieux participatifs. Par exemple le rendu du nuage.
 
-![](http://simon-kallweit.me/deepscattering/deepscattering.jpg)
+![](http://simon-kallweit.me/deepscattering/deepscattering.jpg) -->
