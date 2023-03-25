@@ -73,11 +73,16 @@ Le marché de la maison intelligente est en pleine croissance, avec une prévisi
 ![](images/march%C3%A9.jpeg)
 
 
-### [Amendment for Inverse Control of Parametric Shapes](https://perso.telecom-paristech.fr/boubek/papers/DAG_Amendment/)
+### [Acteurs clés de la domotique]()
 
-Paramètrisation rapide de modèles 3D avec l'usage d'apprentissage profond.
+Il existe de nombreux acteurs clés dans le domaine de la domotique et des maisons connectées:
 
-![](https://perso.telecom-paristech.fr/boubek/papers/DAG_Amendment/)
+- Amazon : le géant de la vente en ligne a lancé sa gamme d'enceintes connectées Alexa et a acquis plusieurs entreprises, dont Ring, pour renforcer sa présence sur le marché de la domotique.
+- Google : le géant de la recherche en ligne a lancé son assistant vocal Google Home et a acquis la société Nest pour renforcer sa gamme de produits de domotique.
+- Apple : la société américaine propose son assistant vocal Siri, ainsi que des produits de domotique tels que l'Apple HomePod et l'Apple TV.
+- Samsung : le géant sud-coréen propose des produits de domotique tels que les enceintes connectées Galaxy Home et les appareils SmartThings pour contrôler différents aspects de la maison.
+
+![](images/ces.jpg)
 
 
 ### [Multimodal Conditional Image Synthesis with Product-of-Experts GANs](https://deepimagination.cc/PoE-GAN/)
