@@ -105,34 +105,16 @@ La caméra Always Home Cam de Ring est un mini-drone qui patrouille dans la mais
 [Source](https://www.zdnet.fr/actualites/domotique-et-maison-connectee-au-ces-2023-matter-et-eclairage-immersif-entre-autres-39952256.htm)
 
 Cette lame est vraiment intéressante vu qu'elle est utile pour les personnes âgées ainsi que les personnes en situation d'handicaper, elle leur débarrasse d'une tache fastidieuse. Ce robot ne se contente pas de tondre seulement, il balaie aussi les feuilles.
+n
+### [Enjeux et quelque statistiques]()
+Un récent baromètre d'Open et EBG sur les usages mobiles montre que les utilisateurs et les professionnels ont des priorités différentes en matière de développement futur. Pour 61,9% des utilisateurs, la maison connectée est le sujet incontournable du futur, tandis que pour les professionnels, le m-paiement est privilégié à 71,1%. Les avis divergent également sur le second sujet important à aborder en termes de développement : 57,1% des utilisateurs prônent pour la capacité des réseaux, tandis que les professionnels sont à 54,4% pour les objets connectés appliqués à la personne.
 
-<!-- ### [Photorealistic Material Editing Through Direct Image Manipulation ](https://users.cg.tuwien.ac.at/zsolnai/gfx/photorealistic-material-editing/)
-Génération de materiaux, à partir d'image de référence. Habituellement ce travail doit être fait par un artiste ce qui peut lui prendre un temps important.
-![](https://users.cg.tuwien.ac.at/zsolnai/wp/wp-content/uploads/2019/09/teaser3-1030x669.jpg)
+![](images/phone.jpeg)
+[Source](https://fr.statista.com/infographie/5229/la-maison-connectee-et-le-m-paiement-font-la-tendance/)
 
-## Image
-Cette partie se concentre sur les méthodes de rendu, et plus particulièrement sur le transport de lumière.
+Le salon high-tech IFA 2018 ouvre ses portes à Berlin pour présenter les nouvelles tendances technologiques axées sur l'intelligence des appareils, allant des enceintes connectées à l'électroménager en passant par les téléviseurs nouvelle génération. Selon les prévisions du Statista Digital Market Outlook, le marché de la maison connectée en France devrait doubler pour dépasser 2 milliards d'euros en 2021, l'électroménager intelligent étant le segment le plus prometteur avec un potentiel de plus de 740 millions d'euros de chiffre d'affaires d'ici 2022.
 
-### [NVIDIA RTX Technology](https://developer.nvidia.com/rtx/ray-tracing)
-Ensemble de technologies utilisées par NVIDIA pour permettre l'utilisation du raytracing en temps réel
-![](https://developer.nvidia.com/sites/default/files/akamai/nvidia-rtx-direct-illumination.jpg)
+![](images/enjeux.jpeg)
+[Source](https://fr.statista.com/infographie/7944/estimation-chiffre-affaires-maison-connectee-en-france/s)
 
-### [NVIDIA Ampere Architecture](https://developer.nvidia.com/nvidia-ampere) 
-Hardware dédié au raytracing permettant d'utiliser cette technologie en temps réel.
-![](https://developer.nvidia.com/sites/default/files/akamai/nvidia-deep-learning-super-sampling-800x440.jpg)
-
-### [NVIDIA Deep Learning Super Sampling (DLSS)](https://developer.nvidia.com/rtx/ray-tracing/dlss) 
-Réseau de neuronne profond permettant le debruitage des images à la sortie du raytracer.
-
-### [Metropolys light transport](https://graphics.stanford.edu/papers/metro/)
-
-Technique avancée de de rendu photoréaliste remarquablement efficace pur trouver les régions les plus claires de la scène en construisant un nombre plus important de rayons qui visent ces régions. 
-Amélioration de la méthode d'intégration par Monte Carlo habituellement en usage pour le path tracing. 
-
-![](http://graphics.stanford.edu/papers/metro/fig6.jpg)
-
-### [Deep Scattering](http://simon-kallweit.me/deepscattering/)
-
-Utilisation d'un réseau de neurone pour le rendu photoréaliste de milieux participatifs. Par exemple le rendu du nuage.
-
-![](http://simon-kallweit.me/deepscattering/deepscattering.jpg) -->
+Cela peut aussi montrer que l'enjeu de la domotique qui a connu le plus d'investissement depuis 2017 est l'enjeu sécurité.
